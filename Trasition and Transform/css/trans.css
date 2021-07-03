@@ -1,0 +1,24 @@
+.red:hover{
+    transition-property: all;
+    transition-delay: .2s;
+    transition-duration: 1s;
+}/*transition: all duration liner delay;
+*/
+.blue{
+    transform: rotate(45deg);
+}
+.green{
+    transform: scale(2);
+    transform: scalex(2);
+    transform: scaley(2);
+}
+.yellow{
+    transform: skew(20deg);
+    transform: skewX(20deg);
+    transform: skewY(20deg) rotate(45deg) scale(2);
+   }
+   .orange{
+       transform: translate(-20px, -100px);
+   }
+   /* transform: matrix[scaleX],[skewY],[skewx],[scaleY],[translateX],[translateY];
+   */

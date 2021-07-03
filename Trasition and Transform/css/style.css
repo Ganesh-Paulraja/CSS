@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.red{
+    width: 100px;
+    height: 100px;
+    margin: 100px auto;
+    background-color:red;
+    text-align: center;
+    padding-top: 48px;
+}
+/*transition: all duration liner delay;
+*/
+.red:hover{
+    width: 250px;
+    height: 250px;
+   border-radius: 50%; 
+   padding-top: 122px;
+   font-size: 20px;
+    
+}
+
+.blue{
+    width: 100px;
+    height: 100px;
+    margin: 100px auto;
+    background-color:blue;
+    text-align: center;
+    padding-top: 48px;
+}
+.green{
+    width: 100px;
+    height: 100px;
+    margin: 100px auto;
+    background-color:green;
+    text-align: center;
+    padding-top: 48px;
+}
+.yellow{
+    width: 100px;
+    height: 100px;
+    margin: 100px auto;
+    background-color: yellow;
+    text-align: center;
+    padding-top: 48px;
+}
+
+.orange{
+    width: 100px;
+    height: 100px;
+    margin: 100px auto;
+    background-color:orange;
+    text-align: center;
+    padding-top: 48px;
+}
+.black{
+    width: 100px;
+    height: 100px;
+    margin: 100px auto;
+    background-color:green;
+    text-align: center;
+    padding-top: 48px;
+}
