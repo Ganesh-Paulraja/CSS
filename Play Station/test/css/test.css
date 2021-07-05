@@ -1,0 +1,5 @@
+#menu-list{
+    overflow: hidden;
+    position: absolute;
+    transition: 0.5s;
+}
